@@ -5,3 +5,5 @@ We need to Understand
 1. Knowing the percentage presence of employees
 2. Working Preferences, either work from home or coming to work
 3. Knowing how many people are taking sick leaves.
+
+![Report](https://github.com/user-attachments/assets/5fcca027-86fe-403a-8cb3-89bec04c5026)
